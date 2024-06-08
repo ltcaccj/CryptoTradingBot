@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+CryptoTradingBot.egg-info/PKG-INFO
+CryptoTradingBot.egg-info/SOURCES.txt
+CryptoTradingBot.egg-info/dependency_links.txt
+CryptoTradingBot.egg-info/entry_points.txt
+CryptoTradingBot.egg-info/requires.txt
+CryptoTradingBot.egg-info/top_level.txt
